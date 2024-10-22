@@ -1,9 +1,16 @@
 This feature allows users to create and manage their fantasy game players and teams. Users can add players with specific attributes, such as name, email, position, and nationality. Additionally, users can form teams by assigning players to their respective teams.
 
 ##########Features###############
+
 Create Player: Users can create new players by providing necessary details such as name, email, password, position, and nationality.
+
+
 Login: Players can log in to their accounts using their email and password.
+
+
 View All Players: Users can view a list of all registered players.
+
+
 Create Team: Users can form a team by selecting players from the available player pool.
 
 
@@ -14,6 +21,7 @@ MongoDB
 dotenv package 
 
 Installation
+
 -----Clone the repository-----
 git clone <repository-url>
 cd <repository-directory>
